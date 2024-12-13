@@ -35,3 +35,9 @@ Manual Installation
 git clone https://github.com/sabinsthnp/nvim-log-insert ~/.config/nvim/pack/plugins/start/log-insert.nvim
 ```
 require("log-insert").setup()
+
+Fork this
+```
+git checkout -b feature/new-feature
+```
+i am all ears
