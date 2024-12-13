@@ -8,7 +8,7 @@ A simple Neovim plugin for inserting detailed `console.log` statements in JavaSc
 Using Lazy.nvim:
 
 ```lua
-{
+return {
   "sabinsthnp/nvim-log-insert",
   config = function()
     require("nvim-log-insert").setup()
